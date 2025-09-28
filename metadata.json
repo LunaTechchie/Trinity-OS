@@ -1,0 +1,8 @@
+{
+  "name": "Trinity",
+  "description": "An application to communicate with the Trinity model via text and real-time voice, utilizing its advanced capabilities for a symbiotic user experience.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
